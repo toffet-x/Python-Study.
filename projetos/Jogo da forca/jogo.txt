@@ -1,0 +1,28 @@
+P: Palavra
+D: É composto de letras
+D: Usado no dia a dia
+D: Serve para se comunicar
+P: Bolas
+D: São redondas
+D: Podem ser de diversos tamanhos
+D: São a base para varios esportes
+P: Dica
+D: Serve para facilitar um jogo
+D: Aproxima-se da resposta
+D: É literalmente o que eu to fazendo agora
+P: Jair Bolsonaro
+D: Foi um presidente do Brasil
+D: É considerado 'ficticio'
+D: Atuou durante a pandemia
+P: Sal
+D: É salgado
+D: É um tempero
+P: Teclado
+D: Se usa para escrever
+D: É quadrado
+D: A maioria é de plastico
+D: Tem varias letras e geralmente numeros também!
+D: Algumas vezes é usado para se referir ao um instrumento
+P: Lousa
+D: As vezes é branca, as vezes é verde
+D: É usado para escrever
